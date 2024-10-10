@@ -22,4 +22,8 @@
 
 ![Two Sum](result/Two%20Sum.png)
 
+### Пример задачи: [Palindrome Number](https://github.com/makwerik/LeetCode-Algo-Journey/blob/master/palindrome_number.py)
+Задача может быть сложно читаемая, так как я пытался оптимизировать скорость выполнения с 60ms до 46ms хотя бы
+![Palindrome Number](result/Palindrome%20Number.png)
+
 
