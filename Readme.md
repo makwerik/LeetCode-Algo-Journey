@@ -18,7 +18,7 @@
 
 Оставайтесь на связи и следите за обновлениями!
 
-### Пример задачи: Two Sum
+### Пример задачи: [Two Sum](https://github.com/makwerik/LeetCode-Algo-Journey/blob/master/two_sum.py)
 
 ![Two Sum](result/Two%20Sum.png)
 
