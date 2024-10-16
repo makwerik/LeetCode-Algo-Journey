@@ -28,3 +28,6 @@
 ![Palindrome Number](result/Palindrome%20Number.png)
 
 
+### Пример задачи: [Roman to Integer](https://github.com/makwerik/LeetCode-Algo-Journey/blob/master/roman_to_integer.py)
+Решение задачи пришло ночью, в момент когда я засыпал. А так два дня велась безуспешная борьба, не на жизнь, а на смерть
+![Roman to Integer](result/Roman%20to%20Integer.png)
