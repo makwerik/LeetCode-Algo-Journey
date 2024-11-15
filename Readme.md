@@ -78,4 +78,8 @@ continue шел дальше по строке, как только я встр�
 - Потом можно сделать вывод по срезу, чтобы получить все значения, кроме таргета <code>nums = nums[:k]</code> ( но я решил это опустить, так как все тесты прошли на литкоде)
 ![Remove Element](result/Remove%20Element.png)
 
+### Пример задачи: [Find the Index of the First Occurrence in a String](https://github.com/makwerik/LeetCode-Algo-Journey/blob/master/find_the_index_of_the_first_occurrence_in_a_string.py)
+Туу объяснения не нужны, я так думаю))
+![Find the Index of the First Occurrence in a String](result/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.png)
+
 
