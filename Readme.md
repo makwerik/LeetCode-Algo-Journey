@@ -83,3 +83,5 @@ continue шел дальше по строке, как только я встр�
 ![Find the Index of the First Occurrence in a String](result/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.png)
 
 
+### Пример задачи: [Search Insert Position](https://github.com/makwerik/LeetCode-Algo-Journey/blob/master/search_insert_position.py)
+![Search Insert Position](result/Search%20Insert%20Position.png)
