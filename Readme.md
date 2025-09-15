@@ -176,6 +176,12 @@ _Закрепляю материал, так как вероятность вс�
 убавляем указатели в зависимости от того из какого списка элемент поместили в конец и убавляем указатель общей длины списка.
 ![Merge Sorted Array](result/Merge%20Sorted%20Array.png)
 
+### Пример задачи: [Binary Tree Inorder Traversal](https://github.com/makwerik/LeetCode-Algo-Journey/blob/master/binary_tree_inorder_traversal.py)
+## Логика решения
+Обход дерева лево-корень-право
+![Binary Tree Inorder Traversal](result/Binary%20Tree%20Inorder%20Traversal.png)
+
+
 
 
 
